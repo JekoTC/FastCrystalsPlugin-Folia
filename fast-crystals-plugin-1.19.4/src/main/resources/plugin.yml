@@ -6,3 +6,4 @@ authors: [ Exyron.XYZ, KamlaX, KinczeK ]
 commands:
   fastcrystals:
     aliases: [ fastercrystals, fastcrystal ]
+folia-supported: true
