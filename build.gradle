@@ -6,5 +6,10 @@ group 'xyz.exyron.fastcrystals'
 version '1.0-SNAPSHOT'
 
 repositories {
-    mavenCentral()
+    gradlePluginPortal()
+    maven { url = "https://repo.papermc.io/repository/maven-public/" }
+}
+
+dependencies {
+    compileOnly("dev.folia:folia-api:1.20.1-R0.1-SNAPSHOT")
 }
