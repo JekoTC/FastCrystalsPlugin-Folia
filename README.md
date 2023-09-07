@@ -24,7 +24,8 @@ For 1.20 minecraft version:
 
 Messages are configurable in the file **/Exyron-FastCrystals/config.yml**
 
+### Fork Folia made for 2Y2C
 <p align="center">
-  <img src="https://im.ezgif.com/tmp/ezgif-1-ab05437db8.gif">
+  <img src="[img]https://i.imgur.com/6dEXJDF.png[/img]">
 </p>
 
