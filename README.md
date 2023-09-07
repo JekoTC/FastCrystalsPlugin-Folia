@@ -26,6 +26,6 @@ Messages are configurable in the file **/Exyron-FastCrystals/config.yml**
 
 ### Fork Folia made for 2Y2C
 <p align="center">
-  <img src="https://i.imgur.com/jOxHje1.png" width="128" height="128">
+  <img src="https://i.imgur.com/6dEXJDF.png" width="128" height="128">
 </p>
 
