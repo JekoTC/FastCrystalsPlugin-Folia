@@ -13,12 +13,12 @@ Due to the diversity between versions 1.19.4, 1.20 we decided to make 2 separate
 For 1.19.4 minecraft version:
  - Java 17 and higher
  - Server version 1.19.4
- - Click <a href="https://github.com/ExyronProvider/FastCrystalsPlugin/releases/download/FastCrystalsPlugin/fast-crystals-plugin-1.19.4.jar">here</a> to download plugin for 1.19.4!
+ - Click <a href="https://github.com/JekoTC/FastCrystalsPlugin-Folia/releases/download/FastCrystalsPluginFolia/fast-crystals-plugin-folia-1.19.4.jar">here</a> to download plugin for 1.19.4!
 
 For 1.20 minecraft version:
  - Java 17 and higher
  - Server version 1.20
- - Click <a href="https://github.com/ExyronProvider/FastCrystalsPlugin/releases/download/FastCrystalsPlugin/fast-crystals-plugin-1.20.jar">here</a> to download plugin for 1.20!
+ - Click <a href="https://github.com/JekoTC/FastCrystalsPlugin-Folia/releases/download/FastCrystalsPluginFolia/fast-crystals-plugin-folia-1.20.jar">here</a> to download plugin for 1.20!
 
 # Command presentation
 
